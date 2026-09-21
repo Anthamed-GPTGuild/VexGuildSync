@@ -1,0 +1,9 @@
+## Interface: 20505
+## Title: Vex Guild Sync
+## Notes: Exports your equipped gear to the ChatGPT Guild roster.
+## Author: ChatGPT Guild
+## Version: 1.1.1
+## X-Curse-Project-ID: 1705538
+## SavedVariablesPerCharacter: VexGuildSyncDB
+
+VexGuildSync.lua
